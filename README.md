@@ -39,3 +39,8 @@ git clone https://github.com/VectorInstitute/vector_cv_tools.git
 cd vector_cv_tools
 pip install -e .
 ```
+
+## The team
+This repository is primarily developed by Xin Li and Gerald Shen from Vector Institute, with contributions from Sheen Thusoo for the demo software. 
+
+
